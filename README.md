@@ -7,8 +7,9 @@ DURATION: AUGUST TO SEPTEMBER 2024
 
 OVERVIEW OF THE PROJECT
 PROJECT : Create a simple vulnerability scanning tool that scans a network or website for common security vulnerabilities such as open ports, outdated software versions, and misconfigurations
-![image](https://github.com/user-attachments/assets/6b52480f-8ad1-471c-a177-b11ad45808a3)
 
+
+![Screenshot 2024-08-25 144835](https://github.com/user-attachments/assets/a7c02f18-81f5-4d90-aab9-8a95edf49d3d)
 
 
 OBJECTIVE
