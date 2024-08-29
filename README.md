@@ -7,6 +7,9 @@ DURATION: AUGUST TO SEPTEMBER 2024
 
 OVERVIEW OF THE PROJECT
 PROJECT : Create a simple vulnerability scanning tool that scans a network or website for common security vulnerabilities such as open ports, outdated software versions, and misconfigurations
+![image](https://github.com/user-attachments/assets/6b52480f-8ad1-471c-a177-b11ad45808a3)
+
+
 
 OBJECTIVE
 The primary objective of this project is to develop a simple vulnerability scanning tool that can: 1.Identify Open Ports: Scan a target network or website to find open ports that may be susceptible to attacks. 2.Detect Outdated Software Versions: Check for known vulnerabilities in software versions running on the target system. 3.Identify Misconfigurations: Look for common misconfigurations that could lead to security vulnerabilities.
